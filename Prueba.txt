@@ -1,1 +1,6 @@
 hola, bienvenidos a git
+primara vez manipulando github
+------------------------
+
+
+
